@@ -1,5 +1,4 @@
-# SoulsFormatsNEXT
-A community-driven continuation of TKGP's .NET library for reading and writing various FromSoftware file formats, targeting .NET Framework 4.8 and .NET Standard 2.1.
+.NET library for reading and writing various FromSoftware file formats, targeting .NET Framework 4.8 and .NET Standard 2.1.
 This library primarily supports:
 
 * Dark Souls
